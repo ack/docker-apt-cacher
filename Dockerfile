@@ -1,4 +1,4 @@
-FROM dockerfile/ubuntu
+FROM ubuntu
 
 ENV DEBIAN_FRONTEND noninteractive
 
